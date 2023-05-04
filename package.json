@@ -6,7 +6,7 @@
   "main": "index.js",
   "license":"ISC",
   "scripts": {
-    "dev": "gulp dev",
+    "dev": "rimraf dist && gulp dev",
     "build": "gulp build",
     "build1": "gulp build && node scripts/upload.js",
     "test": "echo \"Error: no test specified\" && exit 1"
