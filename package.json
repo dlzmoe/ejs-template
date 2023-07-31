@@ -1,6 +1,6 @@
 {
   "name": "ejs-template",
-  "author": "zsh",
+  "author": "zishume",
   "version": "1.0.0",
   "description": "gulp template for dev",
   "main": "index.js",
